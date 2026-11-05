@@ -1,22 +1,71 @@
 # OctaNet Internship — Web Development Portfolio
 
-Three front-end assignments completed during my OctaNet Services Pvt. Ltd. internship (March–May 2024).
+A collection of three front-end projects developed during my **Web Development Internship at OctaNet Services Pvt. Ltd. (March–May 2024).**
 
-## Live website
+This repository showcases practical applications of **HTML, CSS, and JavaScript**, focusing on responsive layouts, interactive user interfaces, and basic client-side functionality.
 
-After enabling GitHub Pages, the portfolio landing page and all three projects will be available from the same GitHub Pages site.
+## Live Portfolio
+
+**[View the Live Portfolio](https://sumeet1402.github.io/octanet-web-development-internship/)**
+
+Explore the three projects directly through the live website.
 
 ## Projects
 
-1. **iPhone 15 Landing Page** — product showcase with image selection and background changes.
-2. **Pepsi Landing Page** — product showcase with selectable product images and dynamic background colours.
-3. **To-Do List** — add, complete and delete tasks; tasks are stored in browser local storage.
+### 1. iPhone 15 Landing Page
+A product showcase website inspired by Apple's product presentation.
 
-## Tech stack
-HTML · CSS · JavaScript
+- Interactive product image selection.
+- Dynamic background changes.
+- Clean product-focused interface.
 
-## Run locally
-Open the root `index.html` in a browser, or open any project's `index.html` directly.
+### 2. Pepsi Landing Page
+An interactive landing page designed around Pepsi's product branding.
 
-## GitHub Pages
-In the repository, open **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**, choose **main** and **/(root)**, then save. The root `index.html` is the portfolio homepage.
+- Selectable product images.
+- Dynamic background colour changes.
+- Visually engaging product presentation.
+
+### 3. To-Do List Application
+A simple task management application for organising everyday activities.
+
+- Add new tasks.
+- Mark tasks as completed.
+- Delete tasks.
+- Save tasks using browser Local Storage.
+
+## Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Page structure and content |
+| CSS3 | Styling and layout |
+| JavaScript | Interactivity and functionality |
+| Local Storage | Persistent browser-side task storage |
+
+## Run Locally
+
+To explore the projects on your computer:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/sumeet1402/octanet-web-development-internship.git
+   ```
+
+2. Open the downloaded project folder.
+3. Open the root `index.html` file in your browser.
+4. Select any project to explore it.
+
+You can also open each project's `index.html` file directly.
+
+## About This Repository
+
+These projects represent my practical experience with front-end web development during my internship at OctaNet Services Pvt. Ltd.
+
+The work helped me strengthen my understanding of web page structure, styling, JavaScript interactions, and building simple browser-based applications.
+
+---
+
+**Developed by Sumeet Mandhre**  
+[GitHub](https://github.com/sumeet1402) · [LinkedIn](https://www.linkedin.com/in/sumeet-mandhre-7829aa26b/)
