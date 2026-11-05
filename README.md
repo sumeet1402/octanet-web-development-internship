@@ -6,7 +6,15 @@ This repository showcases practical applications of **HTML, CSS, and JavaScript*
 
 ## Live Portfolio
 
-**[View the Live Portfolio](https://sumeet1402.github.io/octanet-web-development-internship/)**
+<p align="center">
+  <a href="https://sumeet1402.github.io/octanet-web-development-internship/">
+    <img src="https://img.shields.io/badge/EXPLORE_LIVE_PORTFOLIO-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Live Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <em>Explore all three projects and experience them live in your browser.</em>
+</p>
 
 Explore the three projects directly through the live website.
 
